@@ -1,1 +1,1 @@
-ls -Amtp
+ls -Amtp | tr -d ' '

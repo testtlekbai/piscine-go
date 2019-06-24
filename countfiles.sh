@@ -1,1 +1,1 @@
-expr $(find . | wc -l) - 1
+find . | wc -l
